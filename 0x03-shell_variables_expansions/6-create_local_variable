@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 BEST=School
+=======
+BETTY="Holberton"
+>>>>>>> 71acdc367c0cd7d6273f0828addb7297051e6c6b
